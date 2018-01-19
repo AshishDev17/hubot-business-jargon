@@ -1,4 +1,5 @@
 # hubot-business-jargon
+[![Build Status](https://travis-ci.org/AshishDev17/hubot-business-jargon.svg?branch=master)](https://travis-ci.org/AshishDev17/hubot-business-jargon)
 
 A hubot script that displays a random office work gifs when someone enters common business jargons. Some common examples of business jargons are blue sky thinking, going forward, getting the ball rolling, drill down, out of the loop, thinking outside the box, touch base, asap, win win etc.
 
