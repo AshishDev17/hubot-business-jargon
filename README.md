@@ -1,6 +1,6 @@
 # hubot-business-jargon
 
-A hubot script that displays a random office work gifs when someone enters common business jargons. Some common examples of business jargons are blue sky thinking, going forward, getting the ball rolling, drill down, out of the loop, thinking outside the box, touch base, asap etc.
+A hubot script that displays a random office work gifs when someone enters common business jargons. Some common examples of business jargons are blue sky thinking, going forward, getting the ball rolling, drill down, out of the loop, thinking outside the box, touch base, asap, win win etc.
 
 See [`src/businessJargon.js'](src/businessJargon.js) for full documentation.
 
