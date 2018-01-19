@@ -51,5 +51,5 @@ module.exports = [
     'in the driving seat',
     'no brainer',
     'to park a project',
-    'asap'
+    'asap',
 ];
