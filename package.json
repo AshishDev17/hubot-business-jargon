@@ -1,7 +1,7 @@
 {
   "name": "hubot-business-jargon",
   "description": "A hubot script that displays a random office work gifs when someone enters common business jargons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "AshishDev17 <aashmalav@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts",
