@@ -1,4 +1,6 @@
 module.exports = [
+    'annual recurring revenue',
+    'monthly recurring revenue',
     'blue sky thinking',
     'idea shower',
     'to action a project',
@@ -7,6 +9,7 @@ module.exports = [
     'drill down',
     'out of the loop',
     'thinking outside the box',
+    'outside the box',
     'touch base',
     'singing from the same hymn-sheet',
     'singing from the same hymn sheet',
@@ -51,4 +54,5 @@ module.exports = [
     'no brainer',
     'to park a project',
     'asap',
+    'synergy',
 ];
