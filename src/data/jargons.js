@@ -52,4 +52,5 @@ module.exports = [
     'no brainer',
     'to park a project',
     'asap',
+    'synergy',
 ];
