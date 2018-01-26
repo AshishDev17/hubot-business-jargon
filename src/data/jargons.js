@@ -4,7 +4,6 @@ module.exports = [
     'to action a project',
     'going forward',
     'getting the ball rolling',
-    'get the ball roll',
     'drill down',
     'out of the loop',
     'thinking outside the box',
